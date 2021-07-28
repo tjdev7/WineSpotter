@@ -1,5 +1,5 @@
 
-import winepictest from './winepictest.svg';
+import winespotter from './winespotter.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import './App.css';
@@ -7,12 +7,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <img src={winepictest} className="App-logo" alt="logo" />
+        <img src={winespotter} className="App-logo" alt="logo" />
         <br/>
         <br/>
         <h1>WineSpotter</h1>
         <br/>
-        <h2>Wine recommendation app using Machine learning</h2>
+        <h2>Recommendation and classifier app</h2>
 
 <div className="container">
 <br/>
@@ -62,7 +62,7 @@ function App() {
 </div>
   <br/>
   <br/>
-    <h2>Based on your choices, WineSpotter recommends: Caurdoney, Spätburgunder, Pinot noir </h2>
+   {/* <h2>Based on your choices, WineSpotter recommends: Caurdoney, Spätburgunder, Pinot noir </h2>*/}
 
     </div>
   );

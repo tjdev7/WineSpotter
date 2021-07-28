@@ -1,6 +1,7 @@
+![App logo](./src/winespotter.svg)
+
 # WineSpotter
-Identifying different classes of Wine using Machine Learning and TensorFlow
 
-![Splash Page Demo](./src/App_splash_demo.png)
+Identifying different classes of Wine and setting up recommendation models using Machine Learning and TensorFlow.
 
-Source for current stock image found [here](https://www.svgrepo.com/svg/117525/wine)
+![Splash Page](./src/splashpage.png)
